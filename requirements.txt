@@ -1,2 +1,5 @@
 streamlit
 requests
+folium
+geopy
+pandas
